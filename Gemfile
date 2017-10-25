@@ -58,3 +58,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'react-rails'
 gem 'material_design_lite-rails', '~> 1.3'
 gem 'devise'
+gem 'enumerate_it'
