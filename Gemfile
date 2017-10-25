@@ -56,4 +56,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #Add Gem's
 gem 'react-rails'
-gem 'material_design_lite-rails', '~> 1.3
+gem 'material_design_lite-rails', '~> 1.3'
+gem 'devise'
